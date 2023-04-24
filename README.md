@@ -110,6 +110,13 @@ Doge: `D5yxhkGnMhFPauc9zeARtLdJNp4j7LB87U`
 - Remove QR Code
 - BetterDiscord Protection Remover
 
+# RBX Features
+
+- Breached.VC leaks.
+-10 million tries every 5 hours.
+- FREE PROXIES!
+- CAPTCHA BYPASS, MUST GET YOUR OWN FREE KEY!
+
 # Configuration
 |            Name | Description                                                                                                                                          | Example     | Type    |
 |----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------|
