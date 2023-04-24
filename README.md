@@ -1,4 +1,4 @@
-# PirateStealer
+# RBX-Cracker
 🌊 Discord Password Token Grabber
 
 ### 2 detections
@@ -8,15 +8,15 @@
 #### ⚠️ Proof Of Concept && Educational Purpose Only ⚠️
 
 ## Skids hall 
-(changing embed colour and removing PirateStealer mention doesnt make your grabber selfcoded dumbass)
-- [PrimeFA](https://cdn.discordapp.com/attachments/902316110198767626/902427254674563092/partial.js) Thx Hideaki for deobfuscation. Spastic owner thinking that making an api gives him the rights to [sell](https://ibb.co/MfnzJC9) PirateStealer
+(changing embed colour and removing RBX-Cracker mention doesnt make your grabber selfcoded dumbass)
+- [PrimeFA](https://cdn.discordapp.com/attachments/902316110198767626/902427254674563092/partial.js) Thx Hideaki for deobfuscation. Spastic owner thinking that making an api gives him the rights to [sell](https://ibb.co/MfnzJC9) RBX-Cracker
 - Baba Stealer
 - RapidFA
 - Zerian
 - DemonFA
 - KingFA
 - and others lol
-# PirateStealer 
+# RBX-Cracker
 
 
 ## Read this please
@@ -24,7 +24,7 @@ I'm not the original owner of this repository
 
 As you may know stanley deleted all of his repositories since he don't want to be associated with malware developpement anymore, as you can see he transfered ownership to me but what does that mean ? 
 
-I will try to update PirateStealer, but take into account that I don't have that much free time to work on it due to college stuff bla-bla...
+I will try to update RBX-Cracker, but take into account that I don't have that much free time to work on it due to college stuff bla-bla...
 
 ### You were targeted by this malware
 Sorry but don't come at me since I'm not responsible of what people do with this repo
@@ -33,7 +33,7 @@ Check these repos:
 - [Asabira](https://github.com/bytixo/Asabira) (Work in Progress atm)
 - [DC-Malware-Detector](https://github.com/bytixo/Discord-Malware-Detector)
 
-## Official PirateStealer repository
+## Official RBX-Crackerr repository
 
 ![](https://media.discordapp.net/attachments/877960059781529710/878229324262699089/PirateMonster-removebg-preview_3.png)
 
